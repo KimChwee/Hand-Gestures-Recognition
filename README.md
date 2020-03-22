@@ -14,3 +14,5 @@ The potential limit is your creativity
 
 Our research was presented in Jan-2020 at ICMLSC conference & paper published in Mar-2020
 https://dl.acm.org/doi/abs/10.1145/3380688.3380711
+
+![demo](skeletal impose.jpg)
